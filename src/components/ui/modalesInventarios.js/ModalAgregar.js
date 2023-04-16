@@ -34,7 +34,7 @@ export default function ModalAgregar({
             <form>
               <div className="mb-3">
                 <label htmlFor="recipient-name" className="col-form-label">
-                  serial:
+                  Serial:
                 </label>
                 <input
                   type="text"
@@ -104,7 +104,7 @@ export default function ModalAgregar({
 
               <div className="mb-3">
                 <label htmlFor="recipient-name" className="col-form-label">
-                  fechaCompra:
+                  Fecha Compra:
                 </label>
                 <input
                   type="text"
@@ -132,7 +132,7 @@ export default function ModalAgregar({
 
               <div className="mb-3">
                 <label htmlFor="recipient-name" className="col-form-label">
-                  usuario:
+                  Usuario:
                 </label>
                 <input
                   type="text"
